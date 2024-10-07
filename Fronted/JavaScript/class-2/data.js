@@ -51,4 +51,17 @@ let stream="MCA";
 let roll=9;
 let city="Balasore";
 let clgName="USBM";
-console.log(`My name is ${name} ,my age is : ${age} , stream is ${stream},city name is ${city},college name is ${clgName} ,roll no is ${roll}`)
+console.log(`My name is ${name} ,my age is : ${age} , stream is ${stream},city name is :${city},college name is :${clgName} ,roll no is: ${roll}`);
+
+
+//to  check the length of the string
+console.log(" The length of the city is : ",city.length);
+
+let my_website="www.anjan.code";
+let b=3;
+let c="bc"
+console.log(b+c);
+console.log(b-c);//NaN
+console.log(b*c);//NaN
+console.log(b/c);//NaN
+
