@@ -20,7 +20,7 @@ console.log(`The final price of the product is :${finalPrice}`);
 
 //question:3
 let productPrice=500;
-let taxRate=8;
+let taxRate=8;//8% tax
 let taxAmount=(productPrice*taxRate)/100;//(500*8)/100 i.e 40
 let totalAmount=productPrice+taxAmount;//500+40=540
 console.log (`After sale the total price is : ${totalAmount}`)
