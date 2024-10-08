@@ -66,10 +66,13 @@
 
 
  let age=50;
- if(age>18){
+ if(age>60){
+  console.log("senior citizen");
+ }else if(age>18){
   console.log("Adult");
- }else if(age>60){
-  console.log("Senior Citizen");
  }else{
   console.log("Minor")
  }
+
+ //task:3
+ //  if(male)
