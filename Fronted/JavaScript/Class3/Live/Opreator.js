@@ -63,3 +63,13 @@
  }else{
   console.log(" sry  you have no discount ")
  }
+
+
+ let age=50;
+ if(age>18){
+  console.log("Adult");
+ }else if(age>60){
+  console.log("Senior Citizen");
+ }else{
+  console.log("Minor")
+ }
