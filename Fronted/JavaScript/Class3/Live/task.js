@@ -19,3 +19,4 @@ switch(char) {
     default:
         console.log(char + " is a consonant.");
 }
+//
