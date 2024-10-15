@@ -3,7 +3,7 @@
 //ANS: Math.floor() is predefined function in javascript,used to rounds down to an integer which is just previous or equal to the given number
 //ex: 
 // console.log(Math.floor(12.3));//12
-// console.log(Math.floor(-9.8));//10
+// console.log(Math.floor(-9.8));//-10
 
 //  Q.2:
             // How would you Generate random number between 1 -100
