@@ -1,0 +1,34 @@
+what is functon:function is a reusable block of code to perform some certain task
+                instead of writing the same thing again and again we use function okkk
+
+
+                //Declaration: 
+                function functionName(){
+
+                 // code here
+
+                }
+                functionName();//call the function
+
+
+                ////Write a function to print your name with argument and parameter
+   function printName(  name){//parameter
+    console.log(`My name is ${name}`);
+   } 
+   printName(`Anjan`);//argument
+
+   argument contain actual value
+   parameter is just a variable to store the argument
+
+
+   return keyword
+   ..stop the execution process
+                                  and return the value
+
+
+
+                                  ARROW function
+                                  const printName=()=>{
+                                    return `My name is ${name}`;
+                                  }
+                                  console.log(printName("Anjan"))
