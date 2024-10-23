@@ -1,0 +1,4 @@
+ternary op: 
+let output=true?console.log("true"):console.log("False")
+
+ 
