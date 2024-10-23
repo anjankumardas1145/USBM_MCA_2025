@@ -1,4 +1,14 @@
 ternary op: 
 let output=true?console.log("true"):console.log("False")
 
- 
+ //calback function:
+
+When a function is called as an argument inside an another function is called callback function.
+
+ function say(name,callback){
+  console.log(`My name is ${name}`);
+  return calback;
+ }
+ function hello(){
+  return "hello"
+ }
