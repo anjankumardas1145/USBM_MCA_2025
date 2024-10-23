@@ -1,4 +1,3 @@
-
 //for current time to show the greeting msg to the user
 const greetUser = () => {
   let date=new Date();//date class
@@ -67,13 +66,14 @@ console.log(aadd(5,7));
 const calculateBMI = (height, weight) => {
   //  BMI = weight (kg) / (height (m) * height (m))
   let bmi = weight / (height * height);
-  return bmi;
+  
+  return bmi.toFixed(2);
   
 };
 
 
-let height = 1.75; // Height in meters
-let weight = 68;   // Weight in kilograms
+let height = 5.5; // Height in meters
+let weight = 51;   // Weight in kilograms
 
 let bmi = calculateBMI(height, weight);
 console.log("Your BMI is: " + bmi);
