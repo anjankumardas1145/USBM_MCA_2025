@@ -4,7 +4,7 @@ const calculateBMI = () => {
 
   const bmi = (weight / (height * height));
   const output=bmi.toFixed(2);
-
+//cc
   let resultMessage=" ";
 
   if (bmi < 18.5) {
