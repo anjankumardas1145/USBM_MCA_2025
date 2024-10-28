@@ -13,6 +13,6 @@ setInterval(() => {
     }else{
       blinkText.style.visibility='hidden';
     }
-}, 100);
+}, 10);
 //N.B:
 // the value 'hidden' in javascript code is not linked to my css File,it is  a direct manipulation of element's visibility property throught javascript. 

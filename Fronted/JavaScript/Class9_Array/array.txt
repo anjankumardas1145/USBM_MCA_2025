@@ -1,0 +1,2 @@
+how to check length of array:
+using length property

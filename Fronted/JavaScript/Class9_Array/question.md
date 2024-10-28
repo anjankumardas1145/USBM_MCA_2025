@@ -1,0 +1,1 @@
+create a markkdown file and explain all the method with it example?
