@@ -35,7 +35,7 @@ function sayName(){
   const printName=(name,age,city)=>{
     return `My name is ${name},${age},${city}`;
   }
-  console.log(printName("Anjan",22,"Balasore"));
+  console.log(printName("Anjan",22,"Bls"));
  
 
 
