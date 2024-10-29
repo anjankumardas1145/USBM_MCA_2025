@@ -13,7 +13,7 @@ const greetUser = () => {
   }
 };
 
-greetUser();//call the function
+greetUser();//call the functionn
 
 const greetUserr=(name,time)=>{
   if(time<12){
