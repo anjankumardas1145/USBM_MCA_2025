@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif; 
+  background-color: #278cd9; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center; 
+  height: 100vh; 
+  margin: 0; 
+}
+
+h1 {
+  color: #333;
+  font-style:oblique; 
+}
+
+#timeInput {
+  padding: 10px; 
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+  width: 200px; 
+  font-size: 26px; 
+  background-color:rgb(136, 181, 33);
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 15px; 
+  background-color: #e411af;
+  color: white; 
+  border: none; 
+  border-radius: 5px; 
+  font-size: 16px; 
+  
+}
+
+button:hover {
+  background-color: #d4700b; /* When you hover the button*/
+}
+
+#countdownDisplay {
+  margin-top: 25px; /* distance from the count start button */
+  font-size: 20px; /* size of the text */
+  color: #f8edf5; /* color of last test i,e times up !*/
+  font-weight: bold; 
+}
