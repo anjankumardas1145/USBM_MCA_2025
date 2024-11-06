@@ -3,8 +3,11 @@
 
 const cricketers = [
   { name: "Virat Kohli", age: 35, role: "Batsman", debut: 2008, highestScore: 254, batting: "Right-hand", bowling: "Right-arm medium" },
+
   { name: "Rohit Sharma", age: 37, role: "Batsman", debut: 2007, highestScore: 264, batting: "Right-hand", bowling: "Right-arm off-spin" },
+
   { name: "Shubman Gill", age: 25, role: "Batsman", debut: 2019, highestScore: 208, batting: "Right-hand", bowling: "Right-arm off-break" },
+  
   { name: "Jasprit Bumrah", age: 30, role: "Bowler", debut: 2016, highestScore: 10, batting: "Right-hand", bowling: "Right-arm fast" },
   { name: "Hardik Pandya", age: 30, role: "All-rounder", debut: 2016, highestScore: 92, batting: "Right-hand", bowling: "Right-arm fast-medium" },
   { name: "Ravindra Jadeja", age: 35, role: "All-rounder", debut: 2009, highestScore: 175, batting: "Left-hand", bowling: "Left-arm orthodox" },

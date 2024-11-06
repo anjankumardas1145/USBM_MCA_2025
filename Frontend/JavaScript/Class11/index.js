@@ -48,7 +48,7 @@ console.log(result);
 
 
 
-//Object
+//Object literal
 let student={
   Name:"Rohit",
   Age:37,
