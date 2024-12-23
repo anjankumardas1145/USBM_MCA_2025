@@ -1,0 +1,1 @@
+.gitignore->to ignore the files which are not push to git
